@@ -152,16 +152,6 @@ ng serve
 ✔ MongoDB **storage for users & posts**\
 ✔ Environment-specific configuration support
 
----
-
-## 📌 Future Improvements
-
-- Add **comments** & **likes** to posts
-- Implement **file uploads** for images
-- Enable **pagination** for post listing
-- Enhance **UI with Material Design**
-
----
 
 ## 📜 License
 
