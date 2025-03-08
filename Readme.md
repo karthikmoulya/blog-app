@@ -152,7 +152,6 @@ ng serve
 ✔ MongoDB **storage for users & posts**\
 ✔ Environment-specific configuration support
 
-
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
